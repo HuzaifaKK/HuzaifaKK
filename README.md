@@ -1,17 +1,17 @@
-<h1 align="center">👋 Hi, I'm Eren</h1>
+<h1 align="center">👋 Hi, I'm Huzaifa</h1>
 <h3 align="center">An insightful CS students striving to be best at software development! Founder & CEO of AnthroSoft</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ErenTheProgrammer" alt="ErenTheProgrammer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Anthro_Soft" target="blank"><img src="https://img.shields.io/twitter/follow/Anthro_Soft?logo=twitter&style=for-the-badge" alt="AnthroSoft" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ErenTheProgrammer?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/HuzaifaAliKhan?tab=repositories)
 
 - 📝 Follow me on [Twitter](https://twitter.com/Anthro_Soft)
 
 - 💬 Ask me about **Python, C, JavaScript**
 
-- 📫 How to reach me *anthrosoft.info@gmail.com*
+- 📫 Reach me at *huzaifa.luqman78@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

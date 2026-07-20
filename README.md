@@ -22,32 +22,6 @@
 
 ---
 
-## 📊 Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedabbas52233-a11y&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabbas52233-a11y&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedabbas52233-a11y&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedabbas52233-a11y/ahmedabbas52233-a11y/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedabbas52233-a11y/ahmedabbas52233-a11y/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedabbas52233-a11y/ahmedabbas52233-a11y/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ## 🛠️ Tech Stack
 
 <h3 align="left">Languages</h3>
@@ -58,19 +32,19 @@
 <h3 align="left">Frameworks</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,python,django,fastapi,postgres,docker,azure,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,django,discordjs&theme=dark" />
 </p>
 
 <h3 align="left">AI / ML & Data</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,python,django,fastapi,postgres,docker,azure,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
 </p>
 
 <h3 align="left">Developer Tools & Database</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,bash,aws,docker,postman,mongodb&theme=dark" />
 </p>
 
 <h3 align="left">Platforms:</h3>

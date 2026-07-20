@@ -44,7 +44,7 @@
 <h3 align="left">Developer Tools & Database</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,bash,aws,docker,postman,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,bash,aws,postman,mongodb&theme=dark" />
 </p>
 
 <h3 align="left">Platforms:</h3>
@@ -112,9 +112,11 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedabbas52233-a11y&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=huzaifakk-a11y&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
 </p>

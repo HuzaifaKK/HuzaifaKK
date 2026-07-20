@@ -52,16 +52,32 @@
 
 <h3 align="left">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,python,django,fastapi,postgres,docker,azure,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,rust&theme=dark" />
 </p>
 
 <h3 align="left">Frameworks</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,python,django,fastapi,postgres,docker,azure,git,github,linux,vscode&theme=dark" />
+</p>
+
 <h3 align="left">AI / ML & Data</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,python,django,fastapi,postgres,docker,azure,git,github,linux,vscode&theme=dark" />
+</p>
 
 <h3 align="left">Developer Tools & Database</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman,mongodb&theme=dark" />
+</p>
+
 <h3 align="left">Platforms:</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,vscode,github&theme=dark" />
+</p>
 
 ---
 

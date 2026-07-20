@@ -44,7 +44,7 @@
 <h3 align="left">Developer Tools & Database</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,bash,aws,postman,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,aws,postman,mongodb&theme=dark" />
 </p>
 
 <h3 align="left">Platforms:</h3>

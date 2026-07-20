@@ -111,12 +111,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifakk-a11y&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=huzaifakk-a11y&label=Profile%20Views&color=060B14&style=flat" alt="Profile Views" />
 </p>

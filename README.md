@@ -25,31 +25,31 @@
 ## 🛠️ Tech Stack
 
 <h3 align="left">Languages</h3>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,c,rust&theme=dark" />
 </p>
 
 <h3 align="left">Frameworks</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flask,django,discordjs&theme=dark" />
 </p>
 
 <h3 align="left">AI / ML & Data</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
 </p>
 
 <h3 align="left">Developer Tools & Database</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,bash,aws,postman,mongodb&theme=dark" />
 </p>
 
 <h3 align="left">Platforms:</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,vscode,github&theme=dark" />
 </p>
 

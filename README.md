@@ -107,7 +107,7 @@
 - 🔭 Shipping **RoleRadius v2** with CI/CD pipelines and Azure deployment
 - 🌱 Deepening **Kubernetes** and **Infrastructure as Code**
 - 🤝 Open to **Software Development internships** and **graduate trainee roles** — Lahore onsite or remote worldwide
-- 📫 **ahmedabbas52233@gmail.com**
+- 📫 **huzaifa.luqman78@gmail.com**
 
 ---
 

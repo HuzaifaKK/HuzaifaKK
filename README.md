@@ -50,7 +50,7 @@
 <h3 align="left">Platforms:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,github,replit,vscode&theme=dark" />
 </p>
 
 ---

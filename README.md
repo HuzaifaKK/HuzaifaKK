@@ -74,6 +74,7 @@
     <td width="50%">
       <h3 align="center"><a>CS50 Artificial Intelligence — Harvard University</a></h3>
       <p align="center">Comprehensive introduction to AI, covering search algorithms, knowledge representation, optimization, machine learning, neural networks, and reinforcement learning using Python.</p>
+      <a></a>
     </td>
     <td width="50%">
       <h3 align="center"><a>Data Structures & Algorithms — CodeWithHarry</a></h3>

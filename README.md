@@ -97,6 +97,14 @@
 
 ---
 
+## ⏳ Progress
+
+---
+
+## 📜 Certifications
+
+---
+
 ## 💼 Currently
 
 - 🔭 Shipping **RoleRadius v2** with CI/CD pipelines and Azure deployment

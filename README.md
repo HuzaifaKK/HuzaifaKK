@@ -81,8 +81,8 @@
 
 ## 💼 Currently
 
-- 🔭 Shipping **RoleRadius v2** with CI/CD pipelines and Azure deployment
-- 🌱 Deepening **Kubernetes** and **Infrastructure as Code**
+- 💻 Practicing **competitive programming** on Codeforces
+- ⚡ Strengthening my **DSA (Data Structures & Algorithms)** fundamentals with LeetCode
 - 🤝 Open to **Software Development internships** and **graduate trainee roles** — Karachi onsite or remote worldwide
 - 📫 **huzaifa.luqman78@gmail.com**
 

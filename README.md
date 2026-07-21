@@ -51,7 +51,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,github,replit,vscode&theme=dark" />
-  <img width="13%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" />
+  <img width="14%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png" />
 </p>
 
 ---

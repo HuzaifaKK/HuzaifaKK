@@ -66,30 +66,30 @@
     <td width="50%">
       <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/TerraVision-AI">None</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
-        <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+        <im src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <im src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
+        <im src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
       </p>
-      <p>Satellite crop yield intelligence using ST-Transformers, Sentinel-2 NDVI, and ERA5 climate data with MC Dropout confidence scoring.</p>
+      <p>-</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/Tally-Spend">None</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+        <im src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
+        <im src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <im src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
       </p>
-      <p>Personal finance analytics dashboard. Upload bank statements to detect anomalies, track recurring payments, and visualize spending.</p>
+      <p>-</p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/Documind-AI">None</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+        <im src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <im src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
       </p>
-      <p>Document intelligence platform. Upload PDFs/images for AI-powered summaries, sentiment analysis, and actionable recommendations.</p>
+      <p>-</p>
     </td>
   </tr>
 </table>

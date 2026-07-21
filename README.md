@@ -79,6 +79,7 @@
     <td width="50%">
       <h3 align="center"><a>Data Structures & Algorithms — CodeWithHarry</a></h3>
       <p align="center">Comprehensive DSA course covering arrays, linked lists, stacks, queues, trees, graphs, hashing, recursion, sorting, searching, dynamic programming, complexity analysis, and algorithmic problem solving in C language.</p>
+      <p></p>
     </td>
   </tr>
   <tr>

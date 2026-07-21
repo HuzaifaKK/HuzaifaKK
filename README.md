@@ -3,12 +3,6 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+RoleRadius+%E2%80%94+React+%2B+Django+%2B+PostgreSQL;Shipping+TerraVision+%E2%80%94+ST-Transformer+%2B+Satellite+Data;Learning+Azure+DevOps+%2B+Kubernetes;Open+to+Internships+%26+Graduate+Roles" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/huzaifaluqman">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -50,8 +44,7 @@
 <h3 align="left">Platforms:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,github&theme=dark" />
-  <img width="14%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cursor-ai-code-icon.png"/>
+  <img src="https://skillicons.dev/icons?i=linux,github&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=vscode,replit&theme=dark"/>
 </p>
 

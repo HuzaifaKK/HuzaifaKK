@@ -76,22 +76,20 @@
       <p align="center">Comprehensive introduction to AI, covering search algorithms, knowledge representation, optimization, machine learning, neural networks, and reinforcement learning using Python.</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a>Python Bootcamp — CodeWithHarry</a></h3>
+      <h3 align="center"><a>Python Bootcamp — Udemy</a></h3>
+      <p align="center">Hands-on Python programming course covering core language fundamentals, object-oriented programming, file handling, modules, and practical problem-solving.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a>HackerRank Skill Certifications</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/discord.js-316192?style=flat&logo=discord&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
       </p>
-      <p>Full-stack job portal with role-based JWT auth, resume parsing, recruiter dashboards, and Docker deployment.</p>
     </td>
   </tr>
 </table>
 
-CS50 Artificial Intelligence — Harvard University
-Comprehensive introduction to AI, covering search algorithms, knowledge representation, optimization, machine learning, neural networks, and reinforcement learning using Python.
-
-Python Bootcamp — CodeWithHarry
-Hands-on Python programming course covering core language fundamentals, object-oriented programming, file handling, modules, and practical problem-solving.
 
 HackerRank Skill Certifications
 C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.

@@ -57,10 +57,9 @@
     <td width="50%">
       <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/RoleRadius-Job-Portal">RoleRadius</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/discord.js-316192?style=flat&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       </p>
       <p>Full-stack job portal with role-based JWT auth, resume parsing, recruiter dashboards, and Docker deployment.</p>
     </td>
@@ -69,7 +68,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
       </p>
       <p>Satellite crop yield intelligence using ST-Transformers, Sentinel-2 NDVI, and ERA5 climate data with MC Dropout confidence scoring.</p>
     </td>

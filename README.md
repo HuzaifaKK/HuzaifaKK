@@ -53,9 +53,7 @@
   <img src="https://skillicons.dev/icons?i=linux,github,replit,vscode&theme=dark" />
 </p>
 
-<p align="left">
-  <img src="https://simpleicons.org" width="100" height="100" alt="Cursor Logo">
-</p>
+[![Cursor](https://shields.io)](https://cursor.sh)
 
 ---
 

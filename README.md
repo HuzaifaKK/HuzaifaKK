@@ -81,16 +81,19 @@
     </td>
     <td width="50%">
       <h3 align="center"><a>HackerRank Skill Certifications</a></h3>
+      <p align="center">C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.</p>
+    </td>
+  </tr>
+</table>
+
+<td width="50%">
+      <h3 align="center"><a>HackerRank Skill Certifications</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/discord.js-316192?style=flat&logo=discord&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
       </p>
     </td>
-  </tr>
-</table>
-
-
 HackerRank Skill Certifications
 C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.
 

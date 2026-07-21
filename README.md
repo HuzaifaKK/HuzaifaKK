@@ -76,8 +76,8 @@
       <p align="center">Comprehensive introduction to AI, covering search algorithms, knowledge representation, optimization, machine learning, neural networks, and reinforcement learning using Python.</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a>Python Bootcamp — Udemy</a></h3>
-      <p align="center">Hands-on Python programming course covering core language fundamentals, object-oriented programming, file handling, modules, and practical problem-solving.</p>
+      <h3 align="center"><a>Data Structures & Algorithms — CodeWithHarry</a></h3>
+      <p align="center">Comprehensive DSA course covering arrays, linked lists, stacks, queues, trees, graphs, hashing, recursion, sorting, searching, dynamic programming, complexity analysis, and algorithmic problem solving in C language.</p>
     </td>
   </tr>
   <tr>
@@ -86,17 +86,18 @@
       <p align="center">Hands-on Python programming course covering core language fundamentals, object-oriented programming, file handling, modules, and practical problem-solving.</p>
     </td>
     <td width="50%">
+      <h3 align="center"><a>Claude Code 101 — Anthropic</a></h3>
+      <p align="center">Learned the fundamentals of Claude Code, AI-assisted software development workflows, prompt engineering, and best practices for leveraging AI in coding and debugging.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center"><a>HackerRank Skill Certifications</a></h3>
       <p align="center">C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.</p>
     </td>
   </tr>
 </table>
 
-Data Structures & Algorithms — CodeWithHarry
-
-Comprehensive DSA course covering arrays, linked lists, stacks, queues, trees, graphs, hashing, recursion, sorting, searching, dynamic programming, complexity analysis, and algorithmic problem solving in C language.
-
-Claude Code 101 — Anthropic — Learned the fundamentals of Claude Code, AI-assisted software development workflows, prompt engineering, and best practices for leveraging AI in coding and debugging.
 ---
 
 ## ⏳ Progress

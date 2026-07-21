@@ -81,23 +81,16 @@
     </td>
   </tr>
   <tr>
-  <td width="50%">
+    <td width="50%">
+      <h3 align="center"><a>Python Bootcamp — Udemy</a></h3>
+      <p align="center">Hands-on Python programming course covering core language fundamentals, object-oriented programming, file handling, modules, and practical problem-solving.</p>
+    </td>
+    <td width="50%">
       <h3 align="center"><a>HackerRank Skill Certifications</a></h3>
       <p align="center">C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.</p>
     </td>
   </tr>
 </table>
-
-<td width="50%">
-      <h3 align="center"><a>HackerRank Skill Certifications</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/discord.js-316192?style=flat&logo=discord&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-HackerRank Skill Certifications
-C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.
 
 ---
 

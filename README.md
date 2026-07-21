@@ -26,7 +26,7 @@
 <h3 align="left">Frameworks</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,django,discordjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,discordjs&theme=dark" />
 </p>
 
 <h3 align="left">AI / ML & Data</h3>
@@ -64,7 +64,7 @@
       <p>Full-stack job portal with role-based JWT auth, resume parsing, recruiter dashboards, and Docker deployment.</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/TerraVision-AI">TerraVision</a></h3>
+      <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/TerraVision-AI">None</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/Tally-Spend">Tally-Spend</a></h3>
+      <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/Tally-Spend">None</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -84,7 +84,7 @@
       <p>Personal finance analytics dashboard. Upload bank statements to detect anomalies, track recurring payments, and visualize spending.</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/Documind-AI">Documind-AI</a></h3>
+      <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/Documind-AI">None</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white" />

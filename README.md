@@ -72,13 +72,9 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/">RoleRadius</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/discord.js-316192?style=flat&logo=discord&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
-      </p>
-      <p>Full-stack job portal with role-based JWT auth, resume parsing, recruiter dashboards, and Docker deployment.</p>
+      <h3 align="center"><a>CS50 Artificial Intelligence — Harvard University</a></h3>
+      <p align="center">Comprehensive introduction to AI, covering search algorithms, knowledge representation, optimization, machine learning, neural networks, and reinforcement learning using Python.</p>
+      <p>Comprehensive introduction to AI, covering search algorithms, knowledge representation, optimization, machine learning, neural networks, and reinforcement learning using Python.</p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/">RoleRadius</a></h3>

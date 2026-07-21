@@ -69,16 +69,38 @@
 
 ## 📜 Certifications
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/">RoleRadius</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/discord.js-316192?style=flat&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+      </p>
+      <p>Full-stack job portal with role-based JWT auth, resume parsing, recruiter dashboards, and Docker deployment.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/">RoleRadius</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/discord.js-316192?style=flat&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+      </p>
+      <p>Full-stack job portal with role-based JWT auth, resume parsing, recruiter dashboards, and Docker deployment.</p>
+    </td>
+  </tr>
+</table>
 
-[7/21, 10:05 AM] Huzaifa: CS50 Artificial Intelligence — Harvard University
-
+CS50 Artificial Intelligence — Harvard University
 Comprehensive introduction to AI, covering search algorithms, knowledge representation, optimization, machine learning, neural networks, and reinforcement learning using Python.
-[7/21, 10:06 AM] Huzaifa: Python Bootcamp — CodeWithHarry
 
+Python Bootcamp — CodeWithHarry
 Hands-on Python programming course covering core language fundamentals, object-oriented programming, file handling, modules, and practical problem-solving.
-[7/21, 10:13 AM] Huzaifa: HackerRank Skill Certifications
 
+HackerRank Skill Certifications
 C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.
+
 ---
 
 ## ⏳ Progress

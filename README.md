@@ -87,7 +87,7 @@
     </td>
     <td width="50%">
       <h3 align="center"><a>Claude Code 101 — Anthropic</a></h3>
-      <p align="center">Learned the fundamentals of Claude Code, AI-assisted software development workflows, prompt engineering, and best practices for leveraging AI in coding and debugging.</p>
+      <p align="center">The fundamentals of Claude Code, AI-assisted software development workflows, prompt engineering, and best practices for leveraging AI in coding and debugging.</p>
     </td>
   </tr>
   <tr>

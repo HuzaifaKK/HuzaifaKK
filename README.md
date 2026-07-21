@@ -70,7 +70,15 @@
 ## 📜 Certifications
 
 
+[7/21, 10:05 AM] Huzaifa: CS50 Artificial Intelligence — Harvard University
 
+Comprehensive introduction to AI, covering search algorithms, knowledge representation, optimization, machine learning, neural networks, and reinforcement learning using Python.
+[7/21, 10:06 AM] Huzaifa: Python Bootcamp — CodeWithHarry
+
+Hands-on Python programming course covering core language fundamentals, object-oriented programming, file handling, modules, and practical problem-solving.
+[7/21, 10:13 AM] Huzaifa: HackerRank Skill Certifications
+
+C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.
 ---
 
 ## ⏳ Progress

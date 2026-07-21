@@ -81,12 +81,11 @@
 
 ## 💼 Currently
 
-- 💻 Practicing **competitive programming** on Codeforces
+- 💻 Practicing **Competitive Programming** on Codeforces
 - ⚡ Strengthening my **DSA (Data Structures & Algorithms)** fundamentals with LeetCode
-- 🤝 Open to **Software Development internships** and **graduate trainee roles** — Karachi onsite or remote worldwide
+- 🤝 Open to **Software Development internships** and **undergraduate trainee roles** — Karachi onsite or remote worldwide
 - 📫 **huzaifa.luqman78@gmail.com**
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 

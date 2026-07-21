@@ -95,6 +95,10 @@
       <h3 align="center"><a>HackerRank Skill Certifications</a></h3>
       <p align="center">C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.</p>
     </td>
+    <td width="50%">
+      <h3 align="center"><a>HackerRank Skill Certifications</a></h3>
+      <p align="center">C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.</p>
+    </td>
   </tr>
 </table>
 

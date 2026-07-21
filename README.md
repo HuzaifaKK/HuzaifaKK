@@ -92,6 +92,11 @@
   </tr>
 </table>
 
+Data Structures & Algorithms — CodeWithHarry
+
+Comprehensive DSA course covering arrays, linked lists, stacks, queues, trees, graphs, hashing, recursion, sorting, searching, dynamic programming, complexity analysis, and algorithmic problem solving in C language.
+
+Claude Code 101 — Anthropic — Learned the fundamentals of Claude Code, AI-assisted software development workflows, prompt engineering, and best practices for leveraging AI in coding and debugging.
 ---
 
 ## ⏳ Progress

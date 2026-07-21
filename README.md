@@ -57,9 +57,9 @@
     <td width="50%">
       <h3 align="center"><a href="https://github.com/ahmedabbas52233-a11y/RoleRadius-Job-Portal">RoleRadius</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/discord.js-316192?style=flat&logo=discord&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/discord.js-316192?style=flat&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
       </p>
       <p>Full-stack job portal with role-based JWT auth, resume parsing, recruiter dashboards, and Docker deployment.</p>
     </td>

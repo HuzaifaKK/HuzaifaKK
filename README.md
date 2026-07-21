@@ -79,7 +79,9 @@
       <h3 align="center"><a>Python Bootcamp — Udemy</a></h3>
       <p align="center">Hands-on Python programming course covering core language fundamentals, object-oriented programming, file handling, modules, and practical problem-solving.</p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+  <td width="50%">
       <h3 align="center"><a>HackerRank Skill Certifications</a></h3>
       <p align="center">C (Basic), Python (Basic), Problem Solving (Intermediate), JavaScript (Basic). Demonstrated proficiency in programming fundamentals, including problem solving, control structures and algorithms.</p>
     </td>
